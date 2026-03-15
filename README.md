@@ -36,6 +36,16 @@ SO101 robotic arm used for imitation learning experiments.
 
 ## Future Work
 
-- add task-oriented control
+- add task-oriented manipulation control
 - integrate perception modules
-- explore reinforcement learning in simulation
+- explore imitation learning pipelines
+- experiment with reinforcement learning for robot manipulation
+
+## Project Structure
+isaac-sim-robot-arm-demo
+│
+├── run_demo1.py # Basic robot arm control script
+├── README.md # Project description
+└── images
+├── isaac_sim.png # Simulation screenshot
+└── so101_robot.jpg # Real robot setup
